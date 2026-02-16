@@ -1,0 +1,19 @@
+*{  
+    box-sizing: border-box;
+    font-family: monospace;
+    font-weight: 700;    
+    color: white;
+}
+body{   
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;    
+}
+ul{
+font-size: 30px;
+padding: 50px 80px;
+}
+.IT{
+    text-decoration: line-through;
+}
